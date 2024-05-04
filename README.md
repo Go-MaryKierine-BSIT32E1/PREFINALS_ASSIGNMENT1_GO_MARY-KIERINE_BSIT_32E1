@@ -1,3 +1,5 @@
+## GO, MARY KIERINE_BSIT-32E1
+## IT ELECTIVE 3 - PREFINAL
 ## Self-Assessment: Onion Architecture, MVC, and Web API (.NET Core)
 
 ### Conceptual Understanding
@@ -16,4 +18,4 @@
 
 #### Web API
 - **Differences from MVC:** MVC can be used to develop a Web application that responds in both data and views, whereas the Web API is used to create HTTP services that only react in data. The Web API request traces actions based on HTTP services, whereas the MVC request traces the action name.
-- **Bottlenecks (Encountered):** No, I haven't encountered any performance challenges with traditional MVC applications compared to Web APIs. As I said earlier exploring these two MVC is need such time, effort, and patience.
+- **Bottlenecks (Encountered):** No, I haven't encountered any performance challenges with traditional MVC applications compared to Web APIs. As I said earlier exploring these two MVC needs much time, effort, and patience.
