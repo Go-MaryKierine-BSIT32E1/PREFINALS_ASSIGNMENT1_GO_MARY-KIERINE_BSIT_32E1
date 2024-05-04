@@ -1,5 +1,4 @@
-## GO, MARY KIERINE
-## BSIT32E1 
+## GO, MARY KIERINE_BSIT32E1 
 ## IT ELECTIVE 3 - PREFINAL
 
 ## Self-Assessment: Onion Architecture, MVC, and Web API (.NET Core)
