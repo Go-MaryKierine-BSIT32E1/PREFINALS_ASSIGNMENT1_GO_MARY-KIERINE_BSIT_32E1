@@ -1,7 +1,4 @@
-## GO, MARY KIERINE_BSIT-32E1
-## IT ELECTIVE 3 - PREFINAL
-## Self-Assessment: Onion Architecture, MVC, and Web API (.NET Core)
-
+### Self-Assessment: Onion Architecture, MVC, and Web API (.NET Core)
 ### Conceptual Understanding
 - **Onion Architecture:** No
 - **MVC Pattern:** Yes
